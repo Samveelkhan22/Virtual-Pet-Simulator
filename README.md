@@ -18,6 +18,8 @@ Welcome to the **Virtual Pet Simulator**! This Python program allows you to inte
 3. The game will automatically check the stats after each action (feeding or playing), and inform you if your pet is in a critical condition (e.g., starving).
 4. The game ends when the pet's health reaches 0 or when you choose to exit.
 
+## Example Usage
+
 ```
 Welcome to the Virtual Pet Simulator!
 What would you like to name your pet? oggy
